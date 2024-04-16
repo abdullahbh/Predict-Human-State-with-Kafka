@@ -1,4 +1,4 @@
-### Big Data Analytics Project Documentation
+## Big Data Analytics Project Documentation
 
 This project involves the development of a data analytics system leveraging smartphone sensors to classify different activities such as standing, walking, running, not with the user, and phone in use. The project is divided into three deliverables as outlined below:
 
